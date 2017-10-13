@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_recipient_1" label="Recipient (Non-MEC Member)" language="en" table="x_138823_one_award_one_award">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_recipient_1</element>
+            <help/>
+            <hint/>
+            <label>Recipient (Non-MEC Member)</label>
+            <language>en</language>
+            <name>x_138823_one_award_one_award</name>
+            <plural>Recipient (Non-MEC Member)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>bce308eddbb90300820c5740cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Recipient (Non-MEC Member)</sys_name>
+            <sys_package display_value="ONE Award" source="x_138823_one_award">ef1e371ddbb90300820c5740cf961929</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ONE Award">ef1e371ddbb90300820c5740cf961929</sys_scope>
+            <sys_update_name>sys_documentation_x_138823_one_award_one_award_u_recipient_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

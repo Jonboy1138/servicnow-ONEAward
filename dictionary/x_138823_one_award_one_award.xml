@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="ONE Award" max_length="40" name="x_138823_one_award_one_award" type="collection">
+        <element label="Short acknowledgement for Recipient(Optional)" max_length="4000" name="u_acknowledgement_3" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Trust" label="Select Attribute which best describes the reason for the ONE Award" mandatory="true" max_length="40" name="u_attribute_2" type="string">
+            <choice>
+                <element label="Trust" sequence="0" value="Trust"/>
+                <element label="Respect" sequence="1" value="Respect"/>
+                <element label="Integrity" sequence="2" value="Integrity"/>
+                <element label="Teamwork" sequence="3" value="Teamwork"/>
+                <element label="Expertise" sequence="4" value="Expertise"/>
+                <element label="Solution Finder" sequence="5" value="Solution Finder"/>
+            </choice>
+        </element>
+        <element label="Recipient (Non-MEC Member)" mandatory="true" max_length="32" name="u_recipient_1" reference="sys_user" type="reference"/>
+    </element>
+</database>

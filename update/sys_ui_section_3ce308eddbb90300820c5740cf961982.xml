@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Nomination" section_id="3ce308eddbb90300820c5740cf961982" sys_domain="global" table="x_138823_one_award_one_award" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_recipient_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_id>41e348eddbb90300820c5740cf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nomination" display_value="Nomination" name="x_138823_one_award_one_award" sys_domain="global" view="Default view">3ce308eddbb90300820c5740cf961982</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_attribute_2</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_id>c1e348eddbb90300820c5740cf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nomination" display_value="Nomination" name="x_138823_one_award_one_award" sys_domain="global" view="Default view">3ce308eddbb90300820c5740cf961982</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_acknowledgement_3</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_id>45e348eddbb90300820c5740cf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nomination" display_value="Nomination" name="x_138823_one_award_one_award" sys_domain="global" view="Default view">3ce308eddbb90300820c5740cf961982</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Nomination</caption>
+            <header>false</header>
+            <name>x_138823_one_award_one_award</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:35</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ce308eddbb90300820c5740cf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Nomination</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ONE Award" source="x_138823_one_award">ef1e371ddbb90300820c5740cf961929</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ONE Award">ef1e371ddbb90300820c5740cf961929</sys_scope>
+            <sys_update_name>sys_ui_section_3ce308eddbb90300820c5740cf961982</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

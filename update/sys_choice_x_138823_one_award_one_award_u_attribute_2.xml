@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_attribute_2" table="x_138823_one_award_one_award" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_attribute_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Trust</label>
+            <language>en</language>
+            <name>x_138823_one_award_one_award</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85e348eddbb90300820c5740cf961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+            <value>Trust</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_attribute_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Respect</label>
+            <language>en</language>
+            <name>x_138823_one_award_one_award</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85e348eddbb90300820c5740cf961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+            <value>Respect</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_attribute_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integrity</label>
+            <language>en</language>
+            <name>x_138823_one_award_one_award</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1e348eddbb90300820c5740cf96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+            <value>Integrity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_attribute_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Teamwork</label>
+            <language>en</language>
+            <name>x_138823_one_award_one_award</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01e348eddbb90300820c5740cf96190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+            <value>Teamwork</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_attribute_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Expertise</label>
+            <language>en</language>
+            <name>x_138823_one_award_one_award</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4de348eddbb90300820c5740cf96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+            <value>Expertise</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_attribute_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solution Finder</label>
+            <language>en</language>
+            <name>x_138823_one_award_one_award</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89e348eddbb90300820c5740cf961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+            <value>Solution Finder</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_attribute_2</element>
+            <name>x_138823_one_award_one_award</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-13 18:11:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>41e348eddbb90300820c5740cf961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_attribute_2</sys_name>
+            <sys_package display_value="ONE Award" source="x_138823_one_award">ef1e371ddbb90300820c5740cf961929</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ONE Award">ef1e371ddbb90300820c5740cf961929</sys_scope>
+            <sys_update_name>sys_choice_x_138823_one_award_one_award_u_attribute_2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-13 18:11:36</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
